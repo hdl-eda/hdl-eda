@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>IC Design or Integrated Circuit Design this course requires the highly skilled professionals to design electronic chips also called ICs. Broadly IC technology is classified into two 1. ASICs (Application Specific Integrated Circuit) 2. FPGAs (Field Programmable Gate Array).</p>
+<p align="justify">IC Design or Integrated Circuit Design this course requires the highly skilled professionals to design electronic chips also called ICs. Broadly IC technology is classified into two 1. ASICs (Application Specific Integrated Circuit) 2. FPGAs (Field Programmable Gate Array).</p>
 
 Further these ASICs are classified into three categories
 <ol>
@@ -9,17 +9,17 @@ Further these ASICs are classified into three categories
 <li>Mixed-signal IC</li>
 </ol>
 
-<p>with the advent of technology and the necessity there are other types such as SoCs-System-on- Chip, NoCs- Network-onChips and many more.</p>
+<p align="justify">with the advent of technology and the necessity there are other types such as SoCs-System-on- Chip, NoCs- Network-onChips and many more.</p>
 
-<p>IC design engineers need to be skilled in the relevant subject as well as EDA (Electronic Design Automation) tools that are required to build these chips. “Vision-VLSI Industry Pvt. Ltd.” is committed to provide the hands-on online training on these required EDA Tools along with the subject required to develop these ICs.</p>
+<p align="justify">IC design engineers need to be skilled in the relevant subject as well as EDA (Electronic Design Automation) tools that are required to build these chips. “Vision-VLSI Industry Pvt. Ltd.” is committed to provide the hands-on online training on these required EDA Tools along with the subject required to develop these ICs.</p>
 
-<p>Digital systems or circuits can be built on FPGAs or it can take ASIC design approach and it has its own EDA tools set.</p>
+<p align="justify">Digital systems or circuits can be built on FPGAs or it can take ASIC design approach and it has its own EDA tools set.</p>
 
-<p>Analog Systems or circuits are built exclusively by ASIC design approach, which has its own EDA tools set.</p>
+<p align="justify">Analog Systems or circuits are built exclusively by ASIC design approach, which has its own EDA tools set.</p>
 
-<p>Similarly, Mixed-signal IC design has its own EDA tool set.</p>
+<p align="justify">Similarly, Mixed-signal IC design has its own EDA tool set.</p>
 
-<p>Application domains: ICs are used in different industries other than PCs, laptops, smartphones, and consumer electronics, ICs are everywhere to name a few</p>
+<p align="justify">Application domains: ICs are used in different industries other than PCs, laptops, smartphones, and consumer electronics, ICs are everywhere to name a few</p>
 <ol>
   <li>Military applications</li>
 <li>Medical applications</li>
