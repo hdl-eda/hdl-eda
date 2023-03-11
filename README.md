@@ -30,5 +30,6 @@ Further these ASICs are classified into three categories
 <li>Space applications</li>
 <li>Automobiles …etc.</li>
 </ol>
-How to contact:
+<br/><br/>
+<b>How to contact for fiurther queries:</b>
 Mobile: 9949-426-362
