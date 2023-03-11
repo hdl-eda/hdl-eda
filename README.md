@@ -3,9 +3,11 @@
 IC Design or Integrated Circuit Design this course requires the highly skilled professionals to design electronic chips also called ICs. Broadly IC technology is classified into two 1. ASICs (Application Specific Integrated Circuit) 2. FPGAs (Field Programmable Gate Array).
 
 Further these ASICs are classified into three categories
-
-1. Digital IC,<br/>
-2. Analog IC<br/>3. Mixed-signal IC<br/>
+<ol>
+<li>Digital IC</li>
+<li>Analog IC</li>
+<li>Mixed-signal IC</li>
+</ol>
 with the advent of technology and the necessity there are other types such as SoCs-System-on- Chip, NoCs- Network-onChips and many more.
 
 IC design engineers need to be skilled in the relevant subject as well as EDA (Electronic Design Automation) tools that are required to build these chips. “Vision-VLSI Industry Pvt. Ltd.” is committed to provide the hands-on online training on these required EDA Tools along with the subject required to develop these ICs.
