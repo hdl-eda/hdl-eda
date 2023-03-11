@@ -4,8 +4,8 @@ IC Design or Integrated Circuit Design this course requires the highly skilled p
 
 Further these ASICs are classified into three categories
 
-Digital IC
-Analog IC and 3. Mixed-signal IC
+1. Digital IC,<br/>
+2. Analog IC<br/>3. Mixed-signal IC<br/>
 with the advent of technology and the necessity there are other types such as SoCs-System-on- Chip, NoCs- Network-onChips and many more.
 
 IC design engineers need to be skilled in the relevant subject as well as EDA (Electronic Design Automation) tools that are required to build these chips. “Vision-VLSI Industry Pvt. Ltd.” is committed to provide the hands-on online training on these required EDA Tools along with the subject required to develop these ICs.
@@ -17,15 +17,15 @@ Analog Systems or circuits are built exclusively by ASIC design approach, which 
 Similarly, Mixed-signal IC design has its own EDA tool set
 
 Application domains: ICs are used in different industries other than PCs, laptops, smartphones, and consumer electronics, ICs are everywhere to name a few
-
-Military applications
-Medical applications
-Avionics
-Artificial Intelligence
-Machine learning
-Deep learning
-Space applications
-Automobiles …etc.
-
+<ol>
+  <li>Military applications</li>
+<li>Medical applications</li>
+<li>Avionics</li>
+<li>Artificial Intelligence</li>
+<li>Machine learning</li>
+<li>Deep learning</li>
+<li>Space applications</li>
+<li>Automobiles …etc.</li>
+</ol>
 How to contact:
 Mobile: 9949-426-362
