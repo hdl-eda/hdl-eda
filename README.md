@@ -31,7 +31,7 @@ Further these ASICs are classified into three categories
 <li>Automobiles …etc.</li>
 </ol>
 <br/>
-<p align="justify">To lear Verilog HDL fundamentals you are recommended to watch my youtube lecture series<p/><br/>
+<p align="justify">To learn Verilog HDL fundamentals you are suggested to watch my youtube lecture series<p/><br/>
 https://youtube.com/playlist?list=PLxeUHjV-IBzuBtgJ1H832fSw4AaFXJCxO
-<br/><br/><b>How to contact for fiurther queries:</b>
+<br/><br/><b>How to contact for further queries:</b>
 Mobile: 9949-426-362
